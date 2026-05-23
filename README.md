@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+SHAHRIAR+KABIR;MERN+Stack+Developer;" alt="Typing SVG" />
@@ -7,6 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=md-shahriar-kabir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
+<img width="933" height="350" alt="shahriarKabir" src="https://github.com/user-attachments/assets/9d25321d-7c7e-4f67-b081-af6f67c1378f" />
 
 ---
 
