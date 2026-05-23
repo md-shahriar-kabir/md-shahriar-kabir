@@ -1,16 +1,101 @@
-<h1 align="center">Hi 👋, I'm MD SHAHRIAR KABIR</h1>
-<h3 align="center">A passionate mern stack developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shahriar-kabir&label=Profile%20views&color=0e75b6&style=flat" alt="md-shahriar-kabir" /> </p>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+SHAHRIAR+KABIR;MERN+Stack+Developer;Frontend+Focused+Full+Stack+Developer;Passionate+About+Building+Modern+Web+Apps" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh</h3>
+
+<img src="https://komarev.com/ghpvc/?username=md-shahriar-kabir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently exploring **Next.js, TypeScript & Advanced Backend Architecture**
+- 💻 Love building **modern, scalable and user-friendly web applications**
+- 🎯 Focused on becoming a **Professional Full Stack Engineer**
+- ⚡ Fun fact: I enjoy solving bugs more than creating them 😄
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/shahriarkabir04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriarkabir04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahriarkabir04" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" width="45" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="45" width="45" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-shahriar-kabir&show_icons=true&locale=en&layout=compact" alt="md-shahriar-kabir" /></p>
+## ⚒️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-shahriar-kabir&show_icons=true&locale=en" alt="md-shahriar-kabir" /></p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,firebase,figma,git,github,vscode&perline=8" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-shahriar-kabir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shahriar-kabir&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=md-shahriar-kabir&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=md-shahriar-kabir&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-shahriar-kabir&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 Quote
+
+<div align="center">
+
+### ✨ *"Code. Learn. Build. Repeat."*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
