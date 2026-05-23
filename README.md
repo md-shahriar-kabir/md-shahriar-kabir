@@ -44,16 +44,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-shahriar-kabir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shahriar-kabir&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
