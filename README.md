@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+SHAHRIAR+KABIR;MERN+Stack+Developer;Frontend+Focused+Full+Stack+Developer;Passionate+About+Building+Modern+Web+Apps" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+SHAHRIAR+KABIR;MERN+Stack+Developer;" alt="Typing SVG" />
 
-<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">🚀 Passionate MERN Stack Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=md-shahriar-kabir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
