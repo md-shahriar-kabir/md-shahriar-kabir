@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 ```javascript
-const rabbitkg = {
+const shahriarKabir = {
     location: "🌍 Earth",
     role: "Full-Stack Developer",
     currentFocus: ["JavaScript", "React", "Node.js", "MongoDB"],
