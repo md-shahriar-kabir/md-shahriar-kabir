@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --><div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+rabbitkg+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Experiences+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+MD SHAHRIAR KABIR+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Experiences+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
 
 <!-- Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
