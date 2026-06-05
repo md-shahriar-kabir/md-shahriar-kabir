@@ -30,9 +30,6 @@
 <a href="mailto:shahriar.bizwork@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="45" width="45" />
 </a>
-  <a href="https://www.facebook.com/shariarkabir88">
-  <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="45" width="45" />
-</a>
 </p>
 
 ---
