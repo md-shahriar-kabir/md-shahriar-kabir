@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=md-shahriar-kabir&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-shahriar-kabir&theme=gruvbox-duo&fire=FF882C&currStreakLabel=EB5454&cache_seconds=1800)
 
 </div>
 
