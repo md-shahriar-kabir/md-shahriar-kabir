@@ -22,7 +22,7 @@ I build modern, responsive, and scalable web applications using **MongoDB, Expre
 * 🚀 Building projects with the MERN Stack and Next.js
 * 💡 Interested in Web Development, UI/UX, and Backend Architecture
 * 🤝 Open to collaborating on innovative projects
-* 📫 Reach me: **shariar.bizwork@gmail.com**
+* 📫 Reach me: **shahriar.bizwork@gmail.com**
 
 ### 🎯 Current Goals
 
