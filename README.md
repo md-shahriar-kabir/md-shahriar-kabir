@@ -12,14 +12,36 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently exploring **Next.js, TypeScript & Advanced Backend Architecture**
-- 💻 Love building **modern, scalable and user-friendly web applications**
-- 🎯 Focused on becoming a **Professional Full Stack Engineer**
-- ⚡ Fun fact: I enjoy solving bugs more than creating them 😄
+Hi, I'm **Shahriar Kabir**, a passionate **Junior MERN Stack Developer** from Bangladesh 🇧🇩.
 
----
+I build modern, responsive, and scalable web applications using **MongoDB, Express.js, React, Next.js, and Node.js**. Alongside web development, I have experience working with CMS platforms, server management, and live production environments, giving me a broader understanding of how applications are developed, deployed, and maintained in the real world.
+
+* 🌱 Currently learning and improving my Full-Stack Development skills
+* 🚀 Building projects with the MERN Stack and Next.js
+* 💡 Interested in Web Development, UI/UX, and Backend Architecture
+* 🤝 Open to collaborating on innovative projects
+* 📫 Reach me: **shariar.bizwork@gmail.com**
+
+### 🎯 Current Goals
+
+```yaml
+Open To:
+  - Remote Opportunities
+  - On-site Opportunities
+
+Seeking:
+  - Frontend Developer
+  - Junior MERN Stack Developer
+
+Focus:
+  - Full-Stack MERN Applications
+  - Next.js Development
+  - REST APIs & Authentication
+  - Modern UI/UX Experiences
+```
+
 
 ## 🌐 Connect With Me
 
