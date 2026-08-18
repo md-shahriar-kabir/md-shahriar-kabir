@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+SHAHRIAR+KABIR;MERN+Stack+Developer;" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+SHAHRIAR+KABIR;FULL+Stack+Developer;" alt="Typing SVG" />
 
-<h3 align="center">🚀 Passionate MERN Stack Developer</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=md-shahriar-kabir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Shahriar Kabir**, a passionate **Junior MERN Stack Developer** from Bangladesh 🇧🇩.
+Hi, I'm **Shahriar Kabir**, a passionate **Junior Full Stack Developer** from Bangladesh 🇧🇩.
 
-I build modern, responsive, and scalable web applications using **MongoDB, Express.js, React, Next.js, and Node.js**. Alongside web development, I have experience working with CMS platforms, server management, and live production environments, giving me a broader understanding of how applications are developed, deployed, and maintained in the real world.
+I build modern, responsive, and scalable web applications using **MongoDB, Express.js, React, Next.js,Node.js, PostgreSql, Prisma, Docker, CI/CD Pipeline**. Alongside web development, I have experience working with CMS platforms, server management, and live production environments, giving me a broader understanding of how applications are developed, deployed, and maintained in the real world.
 
 * 🌱 Currently learning and improving my Full-Stack Development skills
-* 🚀 Building projects with the MERN Stack and Next.js
+* 🚀 Building projects with the Full Stack and Next.js
 * 💡 Interested in Web Development, UI/UX, and Backend Architecture
 * 🤝 Open to collaborating on innovative projects
 * 📫 Reach me: **shahriar.bizwork@gmail.com**
